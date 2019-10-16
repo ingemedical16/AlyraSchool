@@ -1,2 +1,50 @@
 [2019-10-15 23:31:59.077] [sharedprocess] [info] main {"machineId":"5472260468693026e6d8454c7469fb11b5d2be9cb86df4fbfc2b1e3ab05d8b31","windowId":2}
 [2019-10-15 23:32:38.934] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-10-16 02:20:54.676] [sharedprocess] [info] Installing extension: juanblanco.solidity
+[2019-10-16 02:21:00.079] [sharedprocess] [info] Downloaded extension: juanblanco.solidity /tmp/70087b5b-ee31-482c-877d-dd8b79dd2568
+[2019-10-16 02:21:03.586] [sharedprocess] [info] Installing extension: beaugunderson.solidity-extended
+[2019-10-16 02:21:06.016] [sharedprocess] [info] Installing extension: kodebox.solidity-language-server
+[2019-10-16 02:21:07.323] [sharedprocess] [info] Downloaded extension: beaugunderson.solidity-extended /tmp/54c93f83-3651-4574-8747-137166974494
+[2019-10-16 02:21:09.615] [sharedprocess] [info] Extracted extension to /home/ingmedical16/.vscode/extensions/.juanblanco.solidity-0.0.64: juanblanco.solidity
+[2019-10-16 02:21:09.615] [sharedprocess] [info] Renamed to /home/ingmedical16/.vscode/extensions/juanblanco.solidity-0.0.64
+[2019-10-16 02:21:09.617] [sharedprocess] [info] Installation completed. juanblanco.solidity
+[2019-10-16 02:21:09.718] [sharedprocess] [info] Extensions installed successfully: juanblanco.solidity
+[2019-10-16 02:21:11.055] [sharedprocess] [info] Installing extension: idrabenia.solidity-solhint
+[2019-10-16 02:21:12.948] [sharedprocess] [info] Extracted extension to /home/ingmedical16/.vscode/extensions/.beaugunderson.solidity-extended-3.0.2: beaugunderson.solidity-extended
+[2019-10-16 02:21:12.949] [sharedprocess] [info] Renamed to /home/ingmedical16/.vscode/extensions/beaugunderson.solidity-extended-3.0.2
+[2019-10-16 02:21:12.951] [sharedprocess] [info] Installation completed. beaugunderson.solidity-extended
+[2019-10-16 02:21:13.053] [sharedprocess] [info] Extensions installed successfully: beaugunderson.solidity-extended
+[2019-10-16 02:21:13.577] [sharedprocess] [info] Installing extension: iolitelabs.solidity-linux
+[2019-10-16 02:21:14.733] [sharedprocess] [info] Downloaded extension: kodebox.solidity-language-server /tmp/fc6fec3c-0c8e-49bc-ade4-8bebd5320c0c
+[2019-10-16 02:21:19.546] [sharedprocess] [info] Installing extension: tintinweb.solidity-visual-auditor
+[2019-10-16 02:21:25.477] [sharedprocess] [info] Extracted extension to /home/ingmedical16/.vscode/extensions/.kodebox.solidity-language-server-0.1.6: kodebox.solidity-language-server
+[2019-10-16 02:21:25.477] [sharedprocess] [info] Renamed to /home/ingmedical16/.vscode/extensions/kodebox.solidity-language-server-0.1.6
+[2019-10-16 02:21:25.478] [sharedprocess] [info] Installation completed. kodebox.solidity-language-server
+[2019-10-16 02:21:25.558] [sharedprocess] [info] Extensions installed successfully: kodebox.solidity-language-server
+[2019-10-16 02:21:26.425] [sharedprocess] [info] Downloaded extension: tintinweb.solidity-visual-auditor /tmp/868ff82e-895b-42d0-8ee6-b42175bff05c
+[2019-10-16 02:21:26.425] [sharedprocess] [info] Downloaded extension: idrabenia.solidity-solhint /tmp/b0c353db-893d-4d5a-8d63-840365516e55
+[2019-10-16 02:21:27.973] [sharedprocess] [info] Extracted extension to /home/ingmedical16/.vscode/extensions/.tintinweb.solidity-visual-auditor-0.0.18: tintinweb.solidity-visual-auditor
+[2019-10-16 02:21:27.981] [sharedprocess] [info] Renamed to /home/ingmedical16/.vscode/extensions/tintinweb.solidity-visual-auditor-0.0.18
+[2019-10-16 02:21:27.983] [sharedprocess] [info] Installation completed. tintinweb.solidity-visual-auditor
+[2019-10-16 02:21:28.606] [sharedprocess] [info] Installing extension: tintinweb.graphviz-interactive-preview
+[2019-10-16 02:21:28.607] [sharedprocess] [info] Installing extension: tintinweb.vscode-solidity-flattener
+[2019-10-16 02:21:30.204] [sharedprocess] [info] Downloaded extension: tintinweb.graphviz-interactive-preview /tmp/cb604ab6-0831-4405-a043-d9f1070a19ae
+[2019-10-16 02:21:30.249] [sharedprocess] [info] Downloaded extension: tintinweb.vscode-solidity-flattener /tmp/0d803d19-31a8-49ed-bb40-0bc67d3fa39d
+[2019-10-16 02:21:30.378] [sharedprocess] [info] Extracted extension to /home/ingmedical16/.vscode/extensions/.tintinweb.graphviz-interactive-preview-0.0.4: tintinweb.graphviz-interactive-preview
+[2019-10-16 02:21:30.379] [sharedprocess] [info] Renamed to /home/ingmedical16/.vscode/extensions/tintinweb.graphviz-interactive-preview-0.0.4
+[2019-10-16 02:21:30.380] [sharedprocess] [info] Installation completed. tintinweb.graphviz-interactive-preview
+[2019-10-16 02:21:30.436] [sharedprocess] [info] Extensions installed successfully: tintinweb.graphviz-interactive-preview
+[2019-10-16 02:21:31.702] [sharedprocess] [info] Extracted extension to /home/ingmedical16/.vscode/extensions/.tintinweb.vscode-solidity-flattener-0.0.6: tintinweb.vscode-solidity-flattener
+[2019-10-16 02:21:31.702] [sharedprocess] [info] Renamed to /home/ingmedical16/.vscode/extensions/tintinweb.vscode-solidity-flattener-0.0.6
+[2019-10-16 02:21:31.703] [sharedprocess] [info] Installation completed. tintinweb.vscode-solidity-flattener
+[2019-10-16 02:21:31.762] [sharedprocess] [info] Extensions installed successfully: tintinweb.vscode-solidity-flattener
+[2019-10-16 02:21:31.762] [sharedprocess] [info] Extensions installed successfully: tintinweb.solidity-visual-auditor
+[2019-10-16 02:21:35.081] [sharedprocess] [info] Extracted extension to /home/ingmedical16/.vscode/extensions/.idrabenia.solidity-solhint-1.1.4: idrabenia.solidity-solhint
+[2019-10-16 02:21:35.081] [sharedprocess] [info] Renamed to /home/ingmedical16/.vscode/extensions/idrabenia.solidity-solhint-1.1.4
+[2019-10-16 02:21:35.082] [sharedprocess] [info] Installation completed. idrabenia.solidity-solhint
+[2019-10-16 02:21:35.690] [sharedprocess] [info] Extensions installed successfully: idrabenia.solidity-solhint
+[2019-10-16 02:21:35.699] [sharedprocess] [info] Downloaded extension: iolitelabs.solidity-linux /tmp/3456ab76-df4c-45da-8d77-94cca68a8bbb
+[2019-10-16 02:21:47.004] [sharedprocess] [info] Extracted extension to /home/ingmedical16/.vscode/extensions/.iolitelabs.solidity-linux-0.1.2: iolitelabs.solidity-linux
+[2019-10-16 02:21:47.004] [sharedprocess] [info] Renamed to /home/ingmedical16/.vscode/extensions/iolitelabs.solidity-linux-0.1.2
+[2019-10-16 02:21:47.005] [sharedprocess] [info] Installation completed. iolitelabs.solidity-linux
+[2019-10-16 02:21:47.130] [sharedprocess] [info] Extensions installed successfully: iolitelabs.solidity-linux
