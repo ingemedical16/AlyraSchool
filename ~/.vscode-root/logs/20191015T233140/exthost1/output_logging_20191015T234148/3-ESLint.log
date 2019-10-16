@@ -1,0 +1,115 @@
+[Info  - 11:41:48 PM] ESLint server stopped.
+[Info  - 11:41:49 PM] ESLint server running in node v10.11.0
+[Info  - 11:41:49 PM] ESLint server is running.
+[Info  - 11:41:52 PM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/nombreAleatoire.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 11:58:14 PM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/devinezNr1to100.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 12:26:31 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/palindrome.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 12:39:48 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/palindromeRecursif.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 12:43:30 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/fibonacci.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 1:21:31 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/fibLapins.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 1:32:04 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/affichage.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 2:12:17 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/affichage.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 2:13:09 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/Jour1/affichage.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 2:13:10 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/Jour1/palindrome.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 2:13:10 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/Jour1/nombreAleatoire.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 2:13:10 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/Jour1/devinezNr1to100.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 2:13:10 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/Jour1/fibonacci.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 2:13:10 AM] 
+Failed to load the ESLint library for the document /home/ingmedical16/exercices/Semaine1/Exercices/Jour1/palindromeRecursif.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder exercices
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.

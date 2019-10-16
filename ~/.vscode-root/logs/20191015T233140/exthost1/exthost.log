@@ -32,3 +32,15 @@
 [2019-10-15 23:32:54.665] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
 [2019-10-15 23:32:54.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ingmedical16/.vscode/extensions/eamodio.gitlens-10.1.1/dist/extension
 [2019-10-15 23:32:54.901] [exthost] [info] eager extensions activated
+[2019-10-15 23:35:14.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2019-10-15 23:35:14.113] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/17/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-10-15 23:35:14.132] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-10-15 23:35:14.132] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/17/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-10-15 23:35:14.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-10-15 23:35:14.187] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/17/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-10-15 23:41:48.925] [exthost] [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel {"startup":false,"extensionId":{"value":"mgmcdermott.vscode-language-babel","_lower":"mgmcdermott.vscode-language-babel"},"activationEvent":"onLanguage:javascript"}
+[2019-10-15 23:41:48.925] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ingmedical16/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.24/dist/extension
+[2019-10-15 23:41:48.978] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:javascript"}
+[2019-10-15 23:41:48.979] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ingmedical16/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/dist/intellicode
+[2019-10-15 23:50:53.334] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2019-10-15 23:50:53.334] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/17/usr/share/code/resources/app/extensions/extension-editing/dist/extension
