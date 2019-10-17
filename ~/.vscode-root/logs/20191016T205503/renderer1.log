@@ -229,3 +229,7 @@ Error: Debug Failure.
     at t.add.e.onDidGroupChange.t (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4833:474)
     at c.fire (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:116:519)
     at t (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5473:454)
+[2019-10-17 15:18:20.595] [renderer1] [error] TreeError [FileExplorer] Data tree node not found: [object Object]: Error: TreeError [FileExplorer] Data tree node not found: [object Object]
+    at Y.getDataNode (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1045:675)
+    at Y.expand (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1043:850)
+    at e.onSelectResource (file:///snap/code/18/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5770:916)
