@@ -211,20 +211,36 @@ class BinarySearchTree {
 var BST = new BinarySearchTree(); 
 
 // Inserting nodes to the BinarySearchTree 
-BST.insert("R"); 
-BST.insert(1);
-BST.insert("A");
-BST.insert("B");   
-BST.insert(2); 
-BST.insert(3); 
+BST.insert(6); 
+BST.insert(3);
+BST.insert(7);
+BST.insert(1);   
+BST.insert(4); 
+BST.insert(9); 
+
+//	                	 6
+//		               /   \ 
+//	                  3     7 
+//	                 / \     \ 
+//	                1   4     9
 						
 
 var root = BST.getRootNode(); 
-console.log(root);
+//console.log(root);
+
+console.log("infixe donne 1 3 4 6 7 9"); 
+ 
+BST.inorder(root); 
+			
+console.log("Postfixe donne 1 4 3 9 7 6"); 
+BST.postorder(root); 
+console.log("Préfixe donne 6 3 1 4 7 9"); 
+BST.preorder(root); 
 
 
-//infixe donne 1 A 2 R B 3
 
-//Préfixe donne R A 1 2 B 3
+//
 
-//Postfixe donne 1 2 A 3 B  R
+//
+
+//

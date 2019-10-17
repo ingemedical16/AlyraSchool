@@ -1,2 +1,8 @@
 [2019-10-16 20:55:07.291] [sharedprocess] [info] main {"machineId":"5472260468693026e6d8454c7469fb11b5d2be9cb86df4fbfc2b1e3ab05d8b31","windowId":2}
 [2019-10-16 20:55:47.316] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-10-17 20:55:11.756] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2019-10-17 20:55:12.326] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/8508b4d4-9d28-4a09-9520-3daea75ae53d
+[2019-10-17 20:55:12.695] [sharedprocess] [info] Extracted extension to /home/ingmedical16/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.0: visualstudioexptteam.vscodeintellicode
+[2019-10-17 20:55:12.704] [sharedprocess] [info] Renamed to /home/ingmedical16/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.0
+[2019-10-17 20:55:12.705] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2019-10-17 20:55:12.789] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
