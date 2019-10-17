@@ -1,0 +1,2028 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/ingmedical16/exercices
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage2.js
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git check-ignore -v -z --stdin
+> git show :ChainSkills/terr
+> git ls-files --stage -- ChainSkills/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :ChainSkills/BinarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :ChainSkills/BinarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :ChainSkills/BinarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :ChainSkills/BinarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git show :ChainSkills/binarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :ChainSkills/binarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git show :ChainSkills/binarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git show :ChainSkills/binarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git show :ChainSkills/binarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-2-5/arbare.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-2-5/
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git show :Semaine1/Exercices/jour2/hachage2.js
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git fetch
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :ChainSkills/binarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :ChainSkills/binarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :ChainSkills/binarySearchTree.js
+> git ls-files --stage -- ChainSkills/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/bitcoin-address-generator.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/bitcoin-address-generator.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git fetch
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git show :Semaine1/HomeWork/exercices1-3-5/bitcoin-address-generator.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/bitcoin-address-generator.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.js
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/HomeWork/exercices1-3-5/bitcoin-address-generator.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git show :Semaine1/Exercices/jour2/hachage.nw.js
+> git ls-files --stage -- Semaine1/Exercices/jour2/
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/HomeWork/exercices1-3-5/genererAdresseBitcoin.js
+> git ls-files --stage -- Semaine1/HomeWork/exercices1-3-5/
+> git check-ignore -v -z --stdin
+> git add -A -- .

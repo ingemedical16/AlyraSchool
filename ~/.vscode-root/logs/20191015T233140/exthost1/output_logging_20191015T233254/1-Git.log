@@ -1201,3 +1201,44 @@ To https://github.com/ingemedical16/AlyraSchool.git
 > git ls-files --stage -- Semaine1/Exercices/jour2/
 > git check-ignore -v -z --stdin
 > git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+> git pull --tags origin master
+From https://github.com/ingemedical16/AlyraSchool
+ * branch            master     -> FETCH_HEAD
+> git push origin master:master
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
+To https://github.com/ingemedical16/AlyraSchool.git
+   c6c21a5..b1d0391  master -> master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Semaine1/Exercices/jour2/hachageCorrection.js
