@@ -161,3 +161,4 @@ or globally using 'npm install -g eslint'. You need to reopen the workspace afte
 
 If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
 Alternatively you can disable ESLint for the workspace folder exercices by executing the 'Disable ESLint' command.
+[Info  - 9:39:55 PM] ESLint server stopped.
