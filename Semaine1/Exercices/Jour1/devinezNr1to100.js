@@ -1,6 +1,6 @@
 const readline = require('readline')
 
-let solution = Math.round(Math.random()*100+1);
+let solution = Math.round(Math.random()*100);
 
 const rli = readline.createInterface({
     input: process.stdin,
