@@ -6,3 +6,6 @@ p {
     background: none;
     border: 1px solid;
 }
+.highlighted {
+    background-color: blue;
+}

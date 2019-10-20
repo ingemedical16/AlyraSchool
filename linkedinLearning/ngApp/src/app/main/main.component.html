@@ -1,3 +1,5 @@
+<div>{{date | date:"short"}}</div>
 <p>Bonjour, {{user}}!</p>
 <button class="submitButton"(click)="userClick()">Click</button>
 <img src="assets/images.jpg">
+<div *ngFor="let element of elements let i" [ngClass]="{'highlighted': i % 2 === 0}">Bonjour,{{user}}! {{i}}</div>

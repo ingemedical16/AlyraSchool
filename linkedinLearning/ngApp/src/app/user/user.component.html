@@ -1,0 +1,9 @@
+<dive>date (varable): {{dateService.date | date:'long'}}</dive>
+<div>date (Methode) {{dateService.getDte() | date: 'long'}}</div>
+
+<form [formGroup]="userForm">
+    <input formControlName="name">
+    <input formControlName="email">
+    <button (click)="showForm()">Submit</button>
+</form>
+
