@@ -3,9 +3,8 @@ class Noeud {
         this.valeur = val;
         this.gauche = null;
         this.droite = null;
-        this.parent = null;
+        
     }
-
     // Affiche la valeur du noeud et la valeur de ses deux enfants et de son parent
     toString() {
         var out = "Noeud " + this.valeur + ":  L";
