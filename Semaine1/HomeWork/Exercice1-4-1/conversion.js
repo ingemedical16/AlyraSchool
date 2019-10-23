@@ -7,6 +7,7 @@ function conversion(number){
   }else {
       number = (number.toString(16)).toUpperCase();
   }
+  console.log(number);
 
   let sizeNr = number.length;
     if(sizeNr % 2 == 0){
@@ -15,7 +16,7 @@ function conversion(number){
         number= "0"+number
         number=number.match(/../g); 
     }
-
+console.log(number);
     let BE = LE = "0x "
 
 for (let i=0;i<number.length;i++){

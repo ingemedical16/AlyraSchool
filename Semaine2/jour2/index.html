@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>conversion</title>
+</head>
+<body>
+    <div>
+        <div>
+            entre in hex
+            <input id="hex" value="">
+            <button class="submitButton" onclick="conversionHexToDecimal()">Hex To Decimal</button>
+        </div>
+        <div>
+            entre in decimal
+            <input  id="decimal" value="">
+            <button class="submitButton" onclick="conversionDecimalToHex()">decimal to hex </button>
+        </div>
+    
+    </div>
+        <script>
+                function conversionHexToDecimal() {
+                    console.log("button clicked")
+                    let hex = document.getElementById('hex').value 
+                    if (hex == 0){
+                        document.getElementById('hex').value = " entre un hexdicimal"
+                    }else{
+        
+                    dec = parseInt(hex, 16);
+                    document.getElementById('decimal').value = dec
+                    }
+                    
+        
+                }
+                function conversionDecimalToHex() {
+                    console.log("button clicked!")
+                    let decimal= document.getElementById('decimal').value 
+                    let hex
+        
+                    if (decimal == "")
+                    {
+                        document.getElementById('decimal').value = " Entre un numbre in decimal"
+                    } else 
+                    {
+        
+                        hex = parseInt(decimal)
+                        if (hex<0){
+                            hex = (0xFFFFFFFF + hex + 1).toUpperCase();
+                            console.log(hex)
+                        }else {
+                            hex = (hex.toString(16)).toUpperCase();
+                            console.log("ICI",hex)
+                        }
+                    }
+                    document.getElementById('hex').value = hex.toString()
+                }
+            </script>
+        
+</body>
+
+</html>
