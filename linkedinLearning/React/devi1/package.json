@@ -1,17 +1,17 @@
 {
-  "name": "devi1",
+  "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bitcoin-core": "^3.0.0",
     "bootstrap": "^4.3.1",
-    "jquerz": "0.0.1-security",
-    "popper.js": "^1.16.0",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0",
-    "react-icons": "^3.7.0",
-    "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0"
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-icons": "^3.6.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.0",
+    "uniqueid": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

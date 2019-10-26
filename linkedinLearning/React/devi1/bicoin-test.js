@@ -1,10 +1,9 @@
 const Client = require('bitcoin-core');
 const client = new Client({ 
   network: 'regtest', 
-  username: 'ingmedical16', 
-  password: 'pass1234', 
-  port: 28332 
+  username: 'user', 
+  password: 'PASSWORD', 
+  port: 18443 
 });
 
-
-client.getInfo().then((help) => console.log(help));
+console.log(client.command('help'))

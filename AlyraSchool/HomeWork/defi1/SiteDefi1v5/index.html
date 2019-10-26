@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AlyraSchool defi#1 </title>
+    <link rel = "icon" href =  
+    "images/webiz-logo.png" 
+            type = "image/x-icon">
+    <meta name="description" content="">
+    <link rel="canonical" href="https://www.nameagency.com">
+    <meta property="og:url" content="https://www.nameagency.com">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57.png">
+  </head>
+  <body>
+    <!-- Navbar Menu  ---->
+    <section id="nav-bar">
+      <nav class="navbar navbar-expand-lg navbar-light">
+         <a class="navbar-brand" href="#">
+           <img src="images/webiz-logo.png" alt="">
+         </a>
+         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+           <i class="fa fa-bars"></i>
+         </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="#top">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#services">Conversion</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#about">Bitcoin Explorer</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#testimonials">Student</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contact">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </section>
+    <!--- Banner Hero section ------->
+    <section class="banner">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <p class="promo-title">AlyraSchool</p>
+            <p class="join-title">Défi #1: Outil d’analyse Bitcoin</p>
+            <a href="#" class="link-play">
+              <img src="svg/play.svg" alt="" class="play-btn">Conversion entre les base
+            </a><br />
+            <a href="#" class="link-play">
+              <img src="svg/play.svg" alt="" class="play-btn">Bitcoin Explorer
+            </a>
+          </div>
+            <div class="col-md-6">
+              <img src="svg/undraw_email_campaign_qa8y.svg" alt="" class="img-fluid">
+            </div>
+        </div>
+      </div>
+        <!--- Background wave Hero ---->
+        <img src="images/ground@-min.png" class="bottom-img" alt="">
+    </section>
+
+    <!--- Conversion ---->
+    <section id="services">
+      <div class="container text-center">
+        <h1 class="title text-center"> Conversions numériques</h1> <br/>
+        <div class="row text-center">
+            
+            <div class="container">
+                <form class="card-body">
+                    <div class="form-group">
+                        <label form="Hexconversion">Entre un numbre <select id="ddlViewBy">
+                                <option value="1">Binaire</option>
+                                <option value="2" selected="selected">decimal</option>
+                                <option value="3">hex</option>
+                            </select></label>
+                        <input type="text" class="form-control" name="input" id="newInput" value="" />
+                    </div>
+    
+                </form>
+    
+            </div>
+    
+            <div class="container text-cente">
+    
+                <ul class="list-group m-3">
+                    <li class="list-group-item" id="alertMessage"></li>
+                </ul>
+    
+            </div>
+    
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h1>Liste de conversion</h1>
+    
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Binaire</th>
+                                    <th scope="col">Décimal</th>
+                                    <th scope="col">Hexadécimal</th>
+                                    <th scope="col">Hexadécimal little endian</th>
+                                    <th scope="col">Hexadécimal big endian</th>
+                                    <th scope="col">VarInt</th>
+                                </tr>
+    
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="col" id="binNumbre"></th>
+                                    <th scope="col" id="decNumbre"></th>
+                                    <th scope="col" id="hexNumbre"></th>
+                                    <th scope="col" id="leNumbre"></th>
+                                    <th scope="col" id="beNumbre"></th>
+                                    <th scope="col" id="varInt">varInt</th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button type="button" class="btn btn-primary"  name="button">Find Out More</button>
+      </div>
+    </section>
+    <!--- About Section ------>
+    <section id="about">
+      <div class="container">
+        <h3 class="title text-center">Défi #1: Outil d’analyse Bitcoin </h3>
+        <div class="row">
+          <div class="col-md-6 about">
+            <p class="about-title">On  fournit un bloc (sous format JSON ou hexadécimal) et il affiche les
+              informations contenues.</p>
+            <ul>
+              <li>Par exemple, vous pouvez prendre le block suivant : </li>
+              <li><a href="https://blockchain.info/rawblock/0000000000074a6f7e2d07cd8e5dd6dc8183993ee3b84666af49
+                9bc5b439d21b">https://blockchain.info/rawblock/0000000000074a6f7e2d07cd8e5dd6dc8183993ee3b84666af49
+                9bc5b439d21b</a></li><br/>
+              <li>BONUS</li><br>
+              <li>* Récupérer les informations d’un noeud bitcoind directement en appelant l’interface<br/>
+                JSON-RPC(<a href="https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)">https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)</a>) et permettre la navigation.</li>
+              <li> * Défi additionnel, interpréter correctement la partie Script des transactions (opcodes et pile). </li>
+              
+            </ul>
+            <img src="images/men-at-work.png" class="bottom-img" alt="" >
+          </div>
+            <div class="col-md-6">
+              <img src="svg/undraw_mobile_marketing_iqbr.svg" class="img-fluid" alt="">
+            </div>
+        </div>
+      </div>
+    </section>
+    <!---  Testimonials Section  --->
+    <section id="testimonials">
+      <div class="container">
+        <h3 class="title text-center">Equipe</h3>
+        <div class="row offset-1">
+          <div class="col-md-5 testimonials">
+            <p class="feedback">"Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            </p>
+            <img src="images/testimonials/mypic.jpg"  alt="">
+            <p class="user-details"><b>Mohammed El-Idrissi</b><br>Inginieur</p>
+          </div>
+          <div class="col-md-5 testimonials">
+            <p class="feedback">"Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            </p>
+            <img src="images/testimonials/testimonial-3.jpg"  alt="">
+            <p class="user-details"><b>Mohamed Nagati</b><br></p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Footer ------>
+    <section id="footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 footer-box">
+              <img src="images/webiz-logo.png" alt="">
+              <h3>Une école au cœur de la blockchain</h3>
+              <p>Nous sommes passionné·e·s par la technologie, et nous travaillons avec des passionné·e·s. 
+                Nos formations sont données et créées par des expert·e·s du domaine à l’écoute et pédagogues.   
+              </p>
+              <p>Nous proposons actuellement le parcours « devenez développeur blockchain et smart contracts en 10 semaines » 
+                et depuis peu le parcours de « chef de projet blockchain ».</p>
+            </div>
+            <div class="col-md-4 footer-box">
+                <p id="contact"><b>Alyra L’école blockchain</b></p>
+                <p><i class="fa fa-map-marker"></i>24 rue des épinettes, Paris 75017</p>
+                <p><i class="fa fa-phone"></i>+33 075 548 49 23</p>
+                <p><i class="fa fa-envelope-o"></i>bonjour@alyra.fr</p>
+            </div>
+            <div class="col-md-4 footer-box">
+                <p><b>SUBSCRIBE NEWSLETTER</b></p>
+                <input type="email"class="form-control" placeholder="Your Email">
+                <button type="button"class="btn btn-primary" name="button">Subscribe</button>
+
+                <div id="social">
+                    <p>Find Us On Social Media</p>
+                       <div class="social-icons">
+                          <a href="https://www.facebook.com/ecolealyra/" class="svg-icons"><img src="svg/facebook-logo.svg" alt=""></a>
+                          <a href="#" class="svg-icons"><img src="svg/instagram_.svg" alt=""></a>
+                          <a href="https://twitter.com/alyraBlockchain?lang=fr" class="svg-icons"><img src="svg/twitter-logo.svg" alt=""></a>
+                          <a href="#" class="svg-icons"><img src="svg/whatsapp.svg" alt=""></a>
+                       </div>
+                </div>
+            </div>
+            <div class="col-md-6 ">
+              <p class="copyright">Copyright © 2019.El-IDRISSI student de <a href="https://alyra.fr/">Alyra L’école blockchain</a></p>
+            </div>
+            <div class="col-md-6 text-right">
+            <p class="copyright">
+              <a href="#">Privacy Policy</a>
+              <a href="#">Cookie Policy</a>
+              <a href="#">Terms & Conditions</a>
+            </p>
+            </div>
+          </div>
+          <br/>
+        </div>
+    </section>
+    <!--- Smooth Scroll js ---------->
+    <script type="text/javascript" src="js/smooth-scroll.js"></script>
+    <script>
+	    var scroll = new SmoothScroll('a[href*="#"]');
+    </script>
+     <!-- Bootstrap -->
+     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+     integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+     crossorigin="anonymous"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+     integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+     crossorigin="anonymous"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+     crossorigin="anonymous"></script>
+
+     <script>
+     class Converteur {
+
+      constructor() {
+          this.decimal = '';
+          this.hex = '';
+          this.binary = ''
+          this.BE = '0x';
+          this.LE = '0x';
+          this.varInt = '';
+          this.message = '';
+          this.hexLen = 0;
+      }
+
+      verify(newInput, strUser) {
+
+
+          switch (strUser) {
+              case '1':
+                  {
+                      if (this.isBin(newInput)) {
+                          this.binary = newInput;
+                          this.decimal = this.convert.bin2dec(newInput);
+                          this.hex = this.convert.bin2hex(newInput);
+                          this.hexLen = this.hex.length;
+                          var beLe = this.beAndLeNumbre(this.convert.bin2hex(newInput));
+                          this.BE = beLe[0];
+                          this.LE = beLe[1]
+                          this.message = " Binary: " + this.binary + " Decimal: " + this.decimal + " Hex: " + this.hex;
+                      } else { this.message = " Attention l'entre ne pas un numbre binaire!" }
+
+                      return [this.decimal, this.hex, this.BE, this.LE, this.message, this.binary]
+                      break;
+                  }
+
+              case '2': {
+
+                  if (this.isNumeric(newInput)) {
+                      this.binary = this.convert.dec2bin(newInput);
+                      this.decimal = newInput;
+                      this.hex = this.convert.dec2hex(newInput);
+                      this.hexLen = this.hex.length;
+                      var beLe = this.beAndLeNumbre(this.convert.dec2hex(newInput));
+                      this.BE = beLe[0];
+                      this.LE = beLe[1]
+                      this.message = " Binary: " + this.binary + " Decimal: " + this.decimal + " Hex: " + this.hex;
+                  } else { this.message = " Attention l'entre ne pas un numbre decimal!" }
+
+                  return [this.decimal, this.hex, this.BE, this.LE, this.message, this.binary]
+                  break
+              }
+
+              case '3': {
+
+                  if (this.isHex(newInput)) {
+                      this.binary = this.convert.hex2bin(newInput);
+                      this.decimal = this.convert.hex2dec(newInput);
+                      this.hex = newInput;
+                      this.hexLen = this.hex.length;
+                      var beLe = this.beAndLeNumbre(newInput);
+                      this.BE = beLe[0];
+                      this.LE = beLe[1]
+                      this.message = " Binary: " + this.binary + " Decimal: " + this.decimal + " Hex: " + this.hex;
+                  } else {
+
+                      this.message = " Attention l'entre ne pas un numbre Hexdicimal!";
+
+                  }
+                  console.log([this.decimal, this.hex, this.BE, this.LE, this.message, this.binary])
+                  return [this.decimal, this.hex, this.BE, this.LE, this.message, this.binary]
+
+                  break;
+              }
+              
+          }
+
+
+
+
+
+      }
+
+      beAndLeNumbre(hex) {
+          var beNumbre = '0x '
+          var leNumbre = '0x '
+          if (hex !== '') {
+              var number = hex;
+              if (number.length % 2 === 0) {
+                  number = number.match(/../g);
+              } else {
+                  number = "0" + number
+                  number = number.match(/../g);
+              }
+
+              for (let i = 0; i < number.length; i++) {
+                  beNumbre = beNumbre  + number[i] + " ";
+                  leNumbre = leNumbre + number[number.length - (i + 1)] + " ";
+              }
+
+          }
+
+          return [beNumbre, leNumbre]
+
+
+      }
+
+      isHex(newInput) {
+          var a = parseInt(newInput, 16);
+          return (a.toString(16) === newInput)
+      }
+
+      isNumeric(newInput) {
+          var RE = /^-{0,1}\d*\.{0,1}\d+$/;
+          return (RE.test(newInput));
+      }
+
+      isBin(testValue) {
+          var test = testValue
+          return (test.search(/^[10]+$/) != -1)
+
+
+      }
+
+      convert = {
+          bin2dec: s => parseInt(s, 2).toString(10),
+          bin2hex: s => parseInt(s, 2).toString(16),
+          dec2bin: s => parseInt(s, 10).toString(2),
+          dec2hex: s => parseInt(s, 10).toString(16),
+          hex2bin: s => parseInt(s, 16).toString(2),
+          hex2dec: s => parseInt(s, 16).toString(10)
+      };
+  }
+
+
+
+
+
+  var decimal = document.getElementById('decNumbre');
+  var hex = document.getElementById('hexNumbre');
+  var BE = document.getElementById('beNumbre');
+  var LE = document.getElementById('leNumbre');
+  var message = document.getElementById('alertMessage');
+  var newInput = document.getElementById('newInput');
+  var bin = document.getElementById('binNumbre');
+  var e = document.getElementById("ddlViewBy");
+
+
+
+  newInput.addEventListener("input", function (event) {
+
+      var strUser = e.options[e.selectedIndex].value;
+      var input = document.getElementById('newInput').value
+      var c = new Converteur();
+      console.log(input);
+      var result = c.verify(input, strUser);
+      message.innerHTML = result[4];
+      hex.innerHTML = result[1];
+      decimal.innerHTML = result[0];
+      BE.innerHTML = result[2];
+      LE.innerHTML = result[3];
+      bin.innerHTML = result[5]
+
+      event.preventDefault();
+
+  }, false);
+
+
+
+
+
+</script>
+
+  </body>
+</html>
