@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>test ws</title>
+</head>
+<body>
+    <script>
+        var btcs = new WeakSet("wss://ws.blockchain.info/inv");
+        btcs.onopen = function(){
+            btcs.send(JSON.stringify({"op":"blocks_unsub"}));
+        }
+        btcs.onmessage = function(onmsg){
+            var response = JSON.parse(onmsg.data);
+            var hash = response.x.hash
+            console.log(hash);
+
+        }
+    
+    
+    
+    </script>
+</body>
+</html>
