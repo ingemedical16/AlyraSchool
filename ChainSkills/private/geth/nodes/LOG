@@ -76,3 +76,15 @@
 16:25:08.444520 db@open done T·105.952278ms
 16:49:03.030642 db@close closing
 16:49:03.050833 db@close done T·20.189377ms
+=============== Nov 3, 2019 (CET) ===============
+19:16:01.412142 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:16:01.423037 version@stat F·[2 1] S·494B[318B 176B] Sc·[0.50 0.00]
+19:16:01.423109 db@open opening
+19:16:01.423218 journal@recovery F·1
+19:16:01.425074 journal@recovery recovering @19
+19:16:01.487069 memdb@flush created L0@21 N·1 S·159B "loc..seq,v14":"loc..seq,v14"
+19:16:01.492877 version@stat F·[3 1] S·653B[477B 176B] Sc·[0.75 0.00]
+19:16:01.564446 db@janitor F·6 G·0
+19:16:01.564487 db@open done T·141.365951ms
+20:09:22.730174 db@close closing
+20:09:22.730432 db@close done T·257.521µs
