@@ -1,31 +1,40 @@
-class ListNode {
-
+class Node {
     constructor(data) {
-        this.data = data
-        this.next = null
-
-    }
-}
-
-class BinaryTreeNode {
-    constructor(data) {
-        this.data = data
+        this.parent = data
         this.left = null
         this.right = null
     }
 }
 
 class Arbre {
-    constructor(data = null) {
-        this.head = null;
+    constructor(valeur = null) {
+      if (valeur === null) {
         this.root = null;
+      } else {
+        this.root = valeur;
+      }
+        this.arbre[0] = this.root ;
     }
 
     ajouterNoeud(new_data) {
-        var new_node = new ListNode(new_data);
-        new_node.next = this.head;
-        this.head = new_node;
+      var newNode = new Node(new_data);
+        if (this.root === null){
+          this.root = newNode.parent;
+          this.arbre[1] = newNode.left;
+          this.arbre[2] = newNode.right;
+        }
+        else {
+          this.ajouter(this.root,newNode);
+        }
+
     }
+
+    ajouter(node,newNode) {
+
+    }
+
+
+
 
     convertList2Binary() {
         var q = [];
@@ -35,21 +44,21 @@ class Arbre {
             return
         }
 
-        this.root = BinaryTreeNode(this.head.data)
+        this.root = new Node(this.head.data)
         q.push(this.root)
         this.head = this.head.next;
 
-        while (self.head) {
+        while (this.head) {
 
-            //# 2.a) Take the parent node from the q and 
-            //# and remove it from q 
-            parent = q.pop(0) //# Front of queue 
+            //# 2.a) Take the parent node from the q and
+            //# and remove it from q
+            parent = q.pop(0) //# Front of queue
 
-            //# 2.c) Take next two nodes from the linked list. 
-            //# We will add them as children of the current 
-            //# parent node in step 2.b. 
-            //# Push them into the queue so that they will be 
-            //# parent to the future node 
+            //# 2.c) Take next two nodes from the linked list.
+            //# We will add them as children of the current
+            //# parent node in step 2.b.
+            //# Push them into the queue so that they will be
+            //# parent to the future node
             var leftChild = null
             var rightChild = null
 
@@ -61,7 +70,7 @@ class Arbre {
                 q.push(rightChild)
                 this.head = this.head.next
             }
-            //#2.b) Assign the left and right children of parent 
+            //#2.b) Assign the left and right children of parent
             parent.left = leftChild
             parent.right = rightChild
         }
@@ -71,8 +80,8 @@ class Arbre {
     infixe(){
         let affichage = []
         if (this.left)
-        affichage = this.left.infixe()
-      affichage = affichage.concat([this.data])
+      affichage = this.left.infixe()
+      affichage = affichage.concat([this.left])
       if (this.right)
         affichage = affichage.concat(this.right.infixe())
       return affichage
@@ -99,7 +108,7 @@ a.ajouterNoeud(10);
 a.ajouterNoeud(31);
 a.ajouterNoeud(35);
 a.ajouterNoeud(32);
-
+console.log(a);
 
 
 console.log(a.infixe()); //[ 10, 11, 12, 13, 14, 18, 21, 24, 30, 31, 32, 33, 35, 40, 46 ]
